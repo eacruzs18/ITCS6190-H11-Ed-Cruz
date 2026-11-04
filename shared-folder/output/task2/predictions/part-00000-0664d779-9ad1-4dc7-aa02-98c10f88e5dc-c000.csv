@@ -1,0 +1,1437 @@
+neighbourhood_cleansed,room_type,bedrooms,price,prediction
+Bayview,Entire home/apt,1.0,250.0,-23.9
+Bernal Heights,Private room,1.0,250.0,107.4
+Bernal Heights,Entire home/apt,3.0,350.0,294.2
+Bernal Heights,Private room,1.0,159.0,76.1
+Castro/Upper Market,Private room,1.0,115.0,131.8
+Castro/Upper Market,Entire home/apt,3.0,300.0,524.4
+Castro/Upper Market,Entire home/apt,2.0,275.0,309.9
+Downtown/Civic Center,Entire home/apt,1.0,249.0,164.9
+Downtown/Civic Center,Entire home/apt,0.0,60.0,123.2
+Excelsior,Private room,1.0,85.0,53.4
+Financial District,Entire home/apt,2.0,250.0,160.9
+Haight Ashbury,Entire home/apt,2.0,200.0,300.8
+Haight Ashbury,Entire home/apt,2.0,450.0,428.3
+Marina,Private room,1.0,450.0,207.0
+Mission,Entire home/apt,1.0,249.0,188.0
+Mission,Private room,1.0,85.0,169.1
+Mission,Entire home/apt,2.0,10000.0,332.5
+Mission,Entire home/apt,3.0,750.0,491.4
+Nob Hill,Private room,1.0,125.0,157.6
+Nob Hill,Entire home/apt,1.0,150.0,244.2
+North Beach,Private room,1.0,82.0,98.8
+Outer Mission,Private room,1.0,50.0,17.5
+Outer Richmond,Entire home/apt,2.0,145.0,235.9
+Outer Sunset,Private room,1.0,70.0,92.1
+Russian Hill,Private room,1.0,240.0,242.4
+South of Market,Private room,1.0,200.0,144.1
+South of Market,Entire home/apt,0.0,150.0,131.3
+South of Market,Private room,1.0,85.0,163.7
+West of Twin Peaks,Private room,1.0,125.0,86.2
+Western Addition,Private room,1.0,10.0,144.8
+Western Addition,Entire home/apt,2.0,250.0,337.8
+Western Addition,Entire home/apt,2.0,199.0,369.1
+Western Addition,Entire home/apt,0.0,135.0,157.9
+Western Addition,Private room,1.0,75.0,180.1
+Western Addition,Entire home/apt,0.0,499.0,169.8
+Bayview,Entire home/apt,4.0,300.0,493.2
+Bernal Heights,Entire home/apt,2.0,200.0,272.1
+Castro/Upper Market,Private room,1.0,199.0,122.4
+Downtown/Civic Center,Entire home/apt,0.0,90.0,120.1
+Haight Ashbury,Entire home/apt,2.0,270.0,356.6
+Lakeshore,Private room,1.0,40.0,-89.5
+Mission,Entire home/apt,2.0,275.0,326.5
+Parkside,Entire home/apt,1.0,110.0,168.1
+South of Market,Private room,1.0,250.0,187.1
+South of Market,Shared room,1.0,250.0,102.8
+South of Market,Private room,1.0,90.0,151.0
+South of Market,Entire home/apt,1.0,470.0,198.5
+South of Market,Private room,1.0,500.0,196.9
+West of Twin Peaks,Private room,1.0,80.0,56.0
+Western Addition,Entire home/apt,3.0,350.0,442.6
+Bayview,Private room,1.0,150.0,68.2
+Mission,Private room,1.0,100.0,109.2
+Mission,Private room,1.0,125.0,147.9
+Mission,Private room,1.0,300.0,160.3
+Mission,Private room,1.0,80.0,152.8
+Nob Hill,Private room,0.0,100.0,8.7
+Potrero Hill,Entire home/apt,1.0,135.0,162.3
+Western Addition,Private room,1.0,95.0,143.4
+Bernal Heights,Private room,1.0,113.0,87.6
+Ocean View,Private room,1.0,65.0,27.8
+Ocean View,Private room,1.0,65.0,57.4
+Outer Sunset,Private room,2.0,150.0,132.6
+South of Market,Private room,1.0,149.0,217.6
+Haight Ashbury,Shared room,1.0,33.0,182.4
+Downtown/Civic Center,Private room,1.0,100.0,128.0
+Downtown/Civic Center,Private room,1.0,70.0,64.9
+Outer Mission,Private room,1.0,99.0,-30.7
+Western Addition,Private room,1.0,180.0,149.2
+Castro/Upper Market,Entire home/apt,1.0,100.0,121.2
+Nob Hill,Private room,1.0,53.0,92.0
+Nob Hill,Private room,1.0,60.0,111.7
+South of Market,Shared room,1.0,40.0,224.5
+Lakeshore,Private room,1.0,98.0,76.4
+Russian Hill,Entire home/apt,0.0,146.0,172.9
+Excelsior,Private room,1.0,70.0,36.0
+Mission,Entire home/apt,1.0,199.0,231.1
+Mission,Entire home/apt,2.0,135.0,272.1
+North Beach,Private room,1.0,83.0,71.4
+North Beach,Private room,1.0,95.0,82.8
+North Beach,Private room,1.0,555.0,101.8
+North Beach,Private room,1.0,95.0,87.2
+Castro/Upper Market,Entire home/apt,1.0,149.0,158.4
+South of Market,Shared room,1.0,40.0,9.1
+South of Market,Shared room,1.0,30.0,152.2
+Downtown/Civic Center,Entire home/apt,2.0,125.0,345.4
+Mission,Entire home/apt,0.0,86.0,121.1
+Downtown/Civic Center,Entire home/apt,1.0,209.0,243.4
+Downtown/Civic Center,Entire home/apt,2.0,299.0,302.7
+South of Market,Entire home/apt,1.0,219.0,294.1
+Bayview,Entire home/apt,1.0,78.0,48.7
+Bernal Heights,Entire home/apt,2.0,300.0,266.8
+Bernal Heights,Entire home/apt,2.0,140.0,231.8
+Castro/Upper Market,Entire home/apt,2.0,145.0,177.2
+Downtown/Civic Center,Entire home/apt,0.0,350.0,100.1
+Downtown/Civic Center,Private room,1.0,90.0,135.3
+Excelsior,Entire home/apt,2.0,150.0,144.0
+Haight Ashbury,Entire home/apt,3.0,800.0,420.8
+Haight Ashbury,Entire home/apt,0.0,100.0,106.8
+Haight Ashbury,Private room,1.0,56.0,177.3
+Haight Ashbury,Private room,1.0,75.0,98.9
+Inner Sunset,Entire home/apt,1.0,152.0,270.2
+Lakeshore,Entire home/apt,3.0,185.0,188.0
+Marina,Entire home/apt,0.0,150.0,165.5
+Marina,Private room,0.0,86.0,87.6
+Marina,Private room,1.0,68.0,156.0
+Mission,Entire home/apt,1.0,125.0,186.1
+Mission,Entire home/apt,1.0,106.0,226.6
+Nob Hill,Entire home/apt,2.0,375.0,199.6
+Noe Valley,Entire home/apt,0.0,130.0,98.5
+Noe Valley,Entire home/apt,3.0,350.0,371.6
+North Beach,Private room,1.0,150.0,129.2
+North Beach,Entire home/apt,0.0,500.0,143.1
+Outer Mission,Private room,2.0,50.0,152.9
+Outer Richmond,Entire home/apt,1.0,50.0,175.3
+Pacific Heights,Entire home/apt,2.0,975.0,454.7
+Potrero Hill,Entire home/apt,1.0,650.0,260.1
+South of Market,Entire home/apt,2.0,172.0,369.3
+South of Market,Entire home/apt,1.0,575.0,232.3
+South of Market,Entire home/apt,1.0,125.0,191.6
+South of Market,Entire home/apt,2.0,230.0,398.6
+South of Market,Entire home/apt,1.0,150.0,237.4
+South of Market,Private room,1.0,150.0,190.8
+Western Addition,Entire home/apt,2.0,200.0,289.9
+Western Addition,Entire home/apt,2.0,185.0,326.6
+Excelsior,Private room,1.0,72.0,-17.2
+Inner Sunset,Entire home/apt,3.0,150.0,422.2
+Inner Sunset,Private room,1.0,47.0,102.6
+North Beach,Entire home/apt,1.0,170.0,192.9
+North Beach,Private room,1.0,79.0,40.4
+Ocean View,Private room,1.0,38.0,-121.1
+Ocean View,Private room,1.0,45.0,68.8
+Outer Richmond,Private room,1.0,70.0,78.7
+Potrero Hill,Entire home/apt,1.0,4500.0,128.5
+South of Market,Entire home/apt,0.0,88.0,114.7
+West of Twin Peaks,Private room,1.0,100.0,92.3
+Bayview,Private room,1.0,66.0,72.0
+Downtown/Civic Center,Private room,1.0,50.0,110.3
+Downtown/Civic Center,Private room,1.0,55.0,72.5
+Mission,Entire home/apt,1.0,125.0,137.6
+Mission,Private room,1.0,56.0,186.5
+Mission,Private room,1.0,59.0,208.5
+Ocean View,Entire home/apt,2.0,69.0,113.4
+Ocean View,Private room,1.0,50.0,41.0
+Parkside,Private room,1.0,65.0,71.1
+Glen Park,Private room,1.0,65.0,118.4
+Glen Park,Private room,1.0,120.0,97.6
+Nob Hill,Private room,1.0,75.0,199.9
+Nob Hill,Private room,1.0,200.0,164.1
+Ocean View,Private room,1.0,140.0,102.8
+West of Twin Peaks,Private room,1.0,100.0,129.9
+Marina,Private room,1.0,250.0,515.0
+Marina,Private room,1.0,300.0,517.6
+South of Market,Entire home/apt,0.0,121.0,16.4
+Downtown/Civic Center,Private room,1.0,50.0,135.1
+Downtown/Civic Center,Private room,1.0,50.0,136.5
+Downtown/Civic Center,Private room,1.0,50.0,137.0
+South of Market,Private room,1.0,47.0,84.2
+Lakeshore,Private room,1.0,79.0,92.0
+Excelsior,Private room,1.0,80.0,100.5
+Financial District,Private room,1.0,99.0,196.1
+Financial District,Private room,1.0,109.0,184.6
+Outer Richmond,Entire home/apt,2.0,180.0,262.8
+Ocean View,Private room,1.0,80.0,35.0
+Noe Valley,Entire home/apt,1.0,163.0,212.5
+Financial District,Shared room,1.0,45.0,48.7
+Financial District,Shared room,1.0,45.0,37.3
+Haight Ashbury,Entire home/apt,2.0,115.0,289.5
+Inner Sunset,Entire home/apt,0.0,90.0,150.0
+North Beach,Entire home/apt,2.0,332.0,295.9
+Pacific Heights,Entire home/apt,0.0,89.0,227.1
+Seacliff,Entire home/apt,1.0,108.0,285.0
+Inner Sunset,Entire home/apt,1.0,135.0,206.3
+Downtown/Civic Center,Private room,1.0,110.0,157.3
+Downtown/Civic Center,Entire home/apt,0.0,78.0,79.4
+Downtown/Civic Center,Entire home/apt,0.0,119.0,125.0
+Downtown/Civic Center,Entire home/apt,0.0,110.0,120.2
+Castro/Upper Market,Entire home/apt,1.0,180.0,144.5
+Castro/Upper Market,Entire home/apt,1.0,170.0,190.5
+Russian Hill,Entire home/apt,0.0,148.0,261.7
+South of Market,Entire home/apt,1.0,199.0,246.7
+Downtown/Civic Center,Private room,1.0,50.0,133.8
+South of Market,Private room,1.0,66.0,164.3
+South of Market,Shared room,1.0,40.0,72.4
+South of Market,Shared room,1.0,40.0,108.8
+Downtown/Civic Center,Private room,0.0,79.0,114.9
+Downtown/Civic Center,Private room,0.0,79.0,168.5
+Downtown/Civic Center,Private room,0.0,79.0,140.2
+Downtown/Civic Center,Private room,0.0,69.0,150.2
+Downtown/Civic Center,Private room,0.0,79.0,131.3
+Downtown/Civic Center,Private room,0.0,75.0,137.8
+Downtown/Civic Center,Private room,0.0,79.0,152.1
+Downtown/Civic Center,Private room,0.0,79.0,164.9
+Downtown/Civic Center,Private room,0.0,79.0,79.5
+Downtown/Civic Center,Private room,0.0,79.0,125.2
+Downtown/Civic Center,Private room,0.0,79.0,112.5
+Downtown/Civic Center,Private room,0.0,79.0,167.0
+Downtown/Civic Center,Private room,0.0,79.0,-12.9
+Downtown/Civic Center,Private room,0.0,79.0,163.4
+Downtown/Civic Center,Shared room,1.0,27.0,43.5
+Crocker Amazon,Shared room,1.0,38.0,91.9
+Downtown/Civic Center,Private room,3.0,750.0,428.0
+Downtown/Civic Center,Entire home/apt,1.0,254.0,185.8
+Nob Hill,Entire home/apt,1.0,264.0,150.8
+Nob Hill,Entire home/apt,1.0,223.0,151.4
+Nob Hill,Entire home/apt,0.0,216.0,93.1
+South of Market,Entire home/apt,1.0,281.0,155.2
+South of Market,Entire home/apt,2.0,360.0,292.6
+South of Market,Entire home/apt,1.0,243.0,160.1
+South of Market,Entire home/apt,0.0,215.0,102.9
+South of Market,Entire home/apt,1.0,232.0,161.3
+South of Market,Entire home/apt,1.0,204.0,160.7
+South of Market,Entire home/apt,1.0,233.0,163.9
+South of Market,Entire home/apt,1.0,202.0,165.8
+South of Market,Entire home/apt,1.0,264.0,182.3
+South of Market,Entire home/apt,0.0,182.0,124.2
+South of Market,Entire home/apt,0.0,190.0,129.7
+Western Addition,Entire home/apt,1.0,197.0,165.8
+Western Addition,Entire home/apt,1.0,246.0,196.9
+Western Addition,Entire home/apt,1.0,256.0,197.8
+Western Addition,Entire home/apt,0.0,207.0,143.5
+Bernal Heights,Private room,1.0,89.0,35.3
+Bernal Heights,Entire home/apt,2.0,360.0,271.3
+Bernal Heights,Entire home/apt,2.0,250.0,278.1
+Bernal Heights,Entire home/apt,0.0,149.0,53.0
+Castro/Upper Market,Entire home/apt,1.0,165.0,132.3
+Castro/Upper Market,Entire home/apt,1.0,250.0,177.3
+Castro/Upper Market,Entire home/apt,2.0,260.0,278.5
+Castro/Upper Market,Entire home/apt,2.0,218.0,246.5
+Castro/Upper Market,Private room,1.0,89.0,87.6
+Diamond Heights,Entire home/apt,3.0,390.0,427.0
+Excelsior,Entire home/apt,1.0,105.0,98.5
+Haight Ashbury,Entire home/apt,3.0,450.0,399.6
+Haight Ashbury,Entire home/apt,1.0,140.0,182.4
+Haight Ashbury,Entire home/apt,2.0,200.0,272.5
+Inner Richmond,Entire home/apt,3.0,600.0,396.8
+Inner Sunset,Private room,1.0,66.0,59.1
+Inner Sunset,Private room,1.0,120.0,135.2
+Marina,Entire home/apt,1.0,200.0,161.0
+Marina,Entire home/apt,2.0,275.0,372.7
+Mission,Entire home/apt,0.0,200.0,79.2
+Mission,Entire home/apt,2.0,80.0,203.7
+Mission,Entire home/apt,2.0,250.0,350.0
+Mission,Entire home/apt,0.0,125.0,108.6
+Mission,Entire home/apt,3.0,250.0,413.2
+Mission,Entire home/apt,1.0,148.0,198.7
+Mission,Entire home/apt,2.0,240.0,347.6
+Mission,Entire home/apt,1.0,185.0,165.6
+Mission,Entire home/apt,2.0,230.0,302.6
+Mission,Entire home/apt,2.0,475.0,288.1
+Mission,Private room,1.0,100.0,90.3
+Mission,Entire home/apt,1.0,200.0,245.8
+Mission,Entire home/apt,2.0,185.0,299.4
+Mission,Private room,1.0,145.0,119.4
+Nob Hill,Entire home/apt,1.0,243.0,172.0
+Noe Valley,Entire home/apt,2.0,150.0,278.6
+Noe Valley,Private room,2.0,249.0,265.7
+Noe Valley,Entire home/apt,1.0,185.0,219.8
+Noe Valley,Entire home/apt,0.0,115.0,82.1
+Ocean View,Private room,1.0,29.0,-10.4
+Ocean View,Entire home/apt,2.0,165.0,271.2
+Ocean View,Entire home/apt,1.0,150.0,250.8
+Outer Mission,Entire home/apt,3.0,360.0,373.4
+Outer Richmond,Entire home/apt,1.0,165.0,132.8
+Outer Richmond,Entire home/apt,3.0,449.0,349.2
+Outer Sunset,Entire home/apt,3.0,150.0,313.2
+Outer Sunset,Entire home/apt,2.0,150.0,187.9
+Pacific Heights,Entire home/apt,1.0,150.0,263.0
+Pacific Heights,Entire home/apt,3.0,1250.0,559.2
+Pacific Heights,Entire home/apt,1.0,267.0,271.6
+Parkside,Entire home/apt,1.0,110.0,65.8
+Potrero Hill,Private room,1.0,120.0,160.2
+Potrero Hill,Private room,0.0,67.0,15.1
+Potrero Hill,Entire home/apt,1.0,198.0,226.3
+Potrero Hill,Entire home/apt,2.0,230.0,261.4
+Russian Hill,Entire home/apt,2.0,185.0,380.1
+South of Market,Entire home/apt,2.0,150.0,319.2
+South of Market,Entire home/apt,1.0,600.0,259.1
+Twin Peaks,Entire home/apt,3.0,450.0,495.0
+Twin Peaks,Entire home/apt,1.0,200.0,220.7
+West of Twin Peaks,Entire home/apt,1.0,135.0,139.1
+West of Twin Peaks,Entire home/apt,3.0,349.0,394.3
+Western Addition,Entire home/apt,1.0,200.0,169.7
+Western Addition,Entire home/apt,2.0,255.0,326.9
+Western Addition,Entire home/apt,1.0,150.0,240.8
+Bayview,Private room,1.0,99.0,15.7
+Bernal Heights,Entire home/apt,3.0,200.0,258.2
+Bernal Heights,Entire home/apt,1.0,195.0,151.3
+Bernal Heights,Entire home/apt,1.0,150.0,119.8
+Castro/Upper Market,Private room,1.0,189.0,158.7
+Castro/Upper Market,Entire home/apt,2.0,350.0,255.2
+Downtown/Civic Center,Entire home/apt,1.0,150.0,289.6
+Excelsior,Private room,1.0,70.0,23.9
+Haight Ashbury,Private room,1.0,100.0,107.7
+Haight Ashbury,Private room,1.0,275.0,98.2
+Inner Richmond,Entire home/apt,4.0,430.0,421.2
+Inner Richmond,Entire home/apt,1.0,110.0,160.4
+Mission,Entire home/apt,1.0,110.0,180.7
+Mission,Private room,1.0,100.0,76.7
+Mission,Private room,1.0,400.0,119.2
+Nob Hill,Entire home/apt,1.0,150.0,161.4
+Noe Valley,Entire home/apt,2.0,168.0,318.6
+Noe Valley,Entire home/apt,2.0,247.0,247.4
+Noe Valley,Entire home/apt,1.0,169.0,212.0
+North Beach,Entire home/apt,2.0,145.0,278.5
+North Beach,Entire home/apt,2.0,169.0,248.9
+Ocean View,Private room,1.0,75.0,33.8
+Outer Richmond,Private room,1.0,90.0,72.4
+Potrero Hill,Entire home/apt,2.0,241.0,274.9
+South of Market,Entire home/apt,1.0,194.0,189.9
+Western Addition,Private room,1.0,83.0,96.2
+Haight Ashbury,Entire home/apt,1.0,230.0,193.7
+Inner Richmond,Entire home/apt,2.0,131.0,171.0
+North Beach,Entire home/apt,0.0,131.0,92.5
+Outer Mission,Private room,1.0,53.0,39.3
+Outer Mission,Private room,1.0,50.0,58.5
+Outer Richmond,Entire home/apt,2.0,204.0,250.0
+Outer Sunset,Private room,1.0,75.0,42.1
+Bernal Heights,Private room,1.0,150.0,96.0
+Bernal Heights,Private room,1.0,99.0,91.2
+Castro/Upper Market,Entire home/apt,0.0,116.0,45.7
+Downtown/Civic Center,Private room,1.0,89.0,172.3
+Excelsior,Entire home/apt,1.0,100.0,166.0
+Excelsior,Private room,1.0,69.0,15.3
+Marina,Entire home/apt,4.0,400.0,693.9
+Marina,Entire home/apt,1.0,125.0,297.5
+Nob Hill,Entire home/apt,0.0,199.0,99.5
+South of Market,Private room,1.0,149.0,172.4
+South of Market,Private room,1.0,50.0,273.1
+South of Market,Private room,1.0,78.0,275.2
+Parkside,Entire home/apt,4.0,159.0,531.1
+Parkside,Entire home/apt,3.0,299.0,369.9
+Lakeshore,Private room,1.0,69.0,27.4
+Mission,Entire home/apt,3.0,150.0,362.0
+Western Addition,Entire home/apt,1.0,110.0,176.3
+Financial District,Entire home/apt,1.0,272.0,224.8
+South of Market,Entire home/apt,1.0,299.0,153.1
+South of Market,Entire home/apt,1.0,235.0,180.1
+Bernal Heights,Entire home/apt,2.0,140.0,256.9
+Bernal Heights,Entire home/apt,2.0,350.0,258.7
+Crocker Amazon,Private room,2.0,138.0,191.7
+Inner Richmond,Private room,1.0,46.0,-23.0
+Inner Richmond,Private room,1.0,100.0,40.5
+Inner Richmond,Entire home/apt,1.0,115.0,161.3
+Marina,Entire home/apt,1.0,150.0,327.4
+Mission,Entire home/apt,1.0,175.0,171.6
+Noe Valley,Entire home/apt,1.0,151.0,171.2
+North Beach,Entire home/apt,2.0,209.0,258.6
+Ocean View,Private room,1.0,90.0,91.9
+Outer Sunset,Entire home/apt,2.0,199.0,286.7
+Outer Sunset,Entire home/apt,1.0,140.0,123.6
+Outer Sunset,Private room,1.0,85.0,7.7
+Pacific Heights,Entire home/apt,2.0,550.0,368.5
+Presidio Heights,Entire home/apt,3.0,400.0,532.6
+South of Market,Entire home/apt,1.0,169.0,197.5
+Visitacion Valley,Entire home/apt,2.0,200.0,257.4
+Visitacion Valley,Private room,1.0,69.0,22.2
+West of Twin Peaks,Entire home/apt,3.0,275.0,364.1
+Western Addition,Entire home/apt,2.0,298.0,359.3
+Western Addition,Private room,1.0,110.0,165.7
+Western Addition,Entire home/apt,2.0,249.0,283.2
+Western Addition,Private room,1.0,100.0,98.5
+Western Addition,Private room,1.0,120.0,183.0
+Castro/Upper Market,Private room,1.0,200.0,69.4
+Nob Hill,Private room,1.0,68.0,134.6
+Noe Valley,Entire home/apt,1.0,139.0,184.4
+Noe Valley,Private room,1.0,66.0,125.9
+Outer Sunset,Entire home/apt,1.0,98.0,76.0
+Potrero Hill,Private room,1.0,149.0,163.4
+South of Market,Private room,1.0,195.0,106.5
+South of Market,Shared room,1.0,69.0,102.0
+South of Market,Private room,1.0,100.0,166.1
+South of Market,Entire home/apt,1.0,119.0,140.4
+Twin Peaks,Entire home/apt,2.0,365.0,422.3
+Western Addition,Entire home/apt,1.0,148.0,195.1
+Western Addition,Entire home/apt,0.0,156.0,118.8
+Haight Ashbury,Entire home/apt,1.0,325.0,206.8
+Mission,Entire home/apt,3.0,325.0,361.1
+Outer Sunset,Private room,1.0,85.0,76.3
+Outer Sunset,Entire home/apt,3.0,215.0,369.1
+Russian Hill,Entire home/apt,3.0,585.0,503.0
+Russian Hill,Entire home/apt,2.0,1099.0,522.2
+Bernal Heights,Private room,1.0,99.0,93.4
+Ocean View,Private room,1.0,60.0,3.4
+Outer Richmond,Private room,1.0,89.0,45.2
+Outer Sunset,Private room,1.0,85.0,71.8
+Russian Hill,Private room,1.0,99.0,267.2
+Russian Hill,Private room,1.0,109.0,314.8
+Visitacion Valley,Entire home/apt,1.0,85.0,79.3
+West of Twin Peaks,Entire home/apt,2.0,140.0,260.6
+Bayview,Private room,1.0,75.0,25.4
+Bayview,Private room,1.0,60.0,36.7
+Nob Hill,Private room,1.0,185.0,130.0
+Outer Richmond,Private room,1.0,65.0,88.2
+Outer Richmond,Private room,1.0,65.0,85.8
+Crocker Amazon,Private room,1.0,50.0,8.3
+Crocker Amazon,Private room,1.0,50.0,70.7
+Mission,Private room,1.0,105.0,142.4
+South of Market,Private room,1.0,97.0,152.4
+West of Twin Peaks,Private room,1.0,59.0,-7.1
+Bayview,Private room,1.0,69.0,16.6
+Crocker Amazon,Private room,1.0,90.0,54.8
+Crocker Amazon,Private room,1.0,90.0,87.8
+Downtown/Civic Center,Private room,1.0,115.0,50.7
+Downtown/Civic Center,Shared room,1.0,129.0,34.5
+South of Market,Shared room,1.0,45.0,176.5
+South of Market,Shared room,1.0,50.0,153.1
+Marina,Private room,1.0,129.0,187.3
+Marina,Private room,1.0,99.0,156.1
+Downtown/Civic Center,Private room,1.0,110.0,121.8
+Downtown/Civic Center,Private room,1.0,110.0,136.1
+Western Addition,Private room,1.0,300.0,154.6
+Western Addition,Private room,1.0,200.0,211.4
+Western Addition,Private room,1.0,300.0,214.1
+Bernal Heights,Private room,1.0,100.0,39.2
+Bernal Heights,Entire home/apt,3.0,450.0,325.0
+Bernal Heights,Private room,1.0,95.0,57.1
+Bernal Heights,Entire home/apt,2.0,160.0,256.7
+Bernal Heights,Private room,1.0,135.0,104.7
+Bernal Heights,Entire home/apt,3.0,250.0,337.5
+Castro/Upper Market,Entire home/apt,0.0,150.0,126.9
+Castro/Upper Market,Entire home/apt,3.0,349.0,418.5
+Castro/Upper Market,Entire home/apt,2.0,200.0,276.4
+Diamond Heights,Entire home/apt,3.0,295.0,423.8
+Downtown/Civic Center,Private room,1.0,85.0,133.2
+Financial District,Private room,1.0,149.0,139.7
+Financial District,Entire home/apt,1.0,300.0,303.7
+Financial District,Entire home/apt,3.0,295.0,362.0
+Glen Park,Entire home/apt,2.0,178.0,235.3
+Haight Ashbury,Entire home/apt,3.0,565.0,449.6
+Haight Ashbury,Private room,1.0,94.0,76.4
+Haight Ashbury,Entire home/apt,4.0,672.0,530.8
+Haight Ashbury,Entire home/apt,2.0,290.0,277.0
+Haight Ashbury,Entire home/apt,3.0,400.0,361.4
+Inner Richmond,Private room,1.0,95.0,17.1
+Inner Richmond,Entire home/apt,2.0,199.0,289.7
+Inner Richmond,Entire home/apt,4.0,800.0,550.2
+Inner Richmond,Private room,1.0,76.0,44.7
+Inner Richmond,Entire home/apt,3.0,450.0,321.4
+Inner Sunset,Private room,1.0,60.0,50.1
+Inner Sunset,Entire home/apt,1.0,145.0,234.3
+Inner Sunset,Entire home/apt,3.0,240.0,453.4
+Marina,Entire home/apt,1.0,169.0,237.3
+Marina,Entire home/apt,3.0,265.0,530.8
+Marina,Entire home/apt,0.0,122.0,150.6
+Marina,Entire home/apt,1.0,220.0,293.6
+Mission,Entire home/apt,2.0,230.0,316.6
+Mission,Entire home/apt,5.0,675.0,711.1
+Mission,Entire home/apt,2.0,125.0,213.8
+Mission,Entire home/apt,3.0,350.0,446.9
+Mission,Entire home/apt,0.0,83.0,108.6
+Mission,Entire home/apt,1.0,120.0,185.9
+Mission,Private room,1.0,105.0,45.9
+Mission,Entire home/apt,1.0,235.0,241.5
+Mission,Entire home/apt,1.0,200.0,274.0
+Mission,Entire home/apt,1.0,150.0,247.0
+Mission,Entire home/apt,1.0,197.0,209.3
+Nob Hill,Entire home/apt,1.0,120.0,230.6
+Nob Hill,Entire home/apt,1.0,108.0,151.6
+Noe Valley,Entire home/apt,3.0,390.0,391.5
+Noe Valley,Entire home/apt,1.0,140.0,147.9
+Noe Valley,Private room,2.0,100.0,186.7
+Noe Valley,Entire home/apt,3.0,675.0,435.0
+Noe Valley,Entire home/apt,2.0,200.0,259.0
+Noe Valley,Private room,3.0,85.0,196.4
+Noe Valley,Entire home/apt,1.0,250.0,175.5
+Noe Valley,Entire home/apt,3.0,800.0,444.8
+North Beach,Entire home/apt,1.0,225.0,262.1
+North Beach,Entire home/apt,1.0,350.0,221.2
+North Beach,Entire home/apt,1.0,96.0,182.7
+North Beach,Entire home/apt,2.0,170.0,272.4
+North Beach,Private room,2.0,688.0,385.2
+Outer Richmond,Entire home/apt,1.0,220.0,100.0
+Outer Richmond,Private room,1.0,120.0,150.4
+Outer Richmond,Entire home/apt,2.0,375.0,300.4
+Outer Sunset,Entire home/apt,3.0,350.0,384.3
+Outer Sunset,Entire home/apt,1.0,98.0,110.6
+Outer Sunset,Private room,1.0,85.0,140.4
+Pacific Heights,Entire home/apt,3.0,325.0,542.0
+Pacific Heights,Entire home/apt,3.0,1350.0,583.0
+Potrero Hill,Entire home/apt,3.0,119.0,174.1
+Potrero Hill,Private room,1.0,125.0,145.4
+Potrero Hill,Entire home/apt,1.0,210.0,246.7
+Russian Hill,Private room,1.0,170.0,180.6
+Russian Hill,Entire home/apt,2.0,500.0,366.2
+Russian Hill,Entire home/apt,1.0,200.0,267.2
+Russian Hill,Entire home/apt,1.0,175.0,270.5
+Russian Hill,Entire home/apt,1.0,220.0,296.8
+South of Market,Entire home/apt,1.0,170.0,208.0
+South of Market,Entire home/apt,2.0,300.0,374.9
+South of Market,Private room,1.0,65.0,266.2
+South of Market,Entire home/apt,3.0,190.0,327.8
+South of Market,Entire home/apt,0.0,145.0,67.2
+South of Market,Private room,1.0,175.0,178.1
+South of Market,Entire home/apt,2.0,185.0,250.2
+Twin Peaks,Private room,2.0,200.0,383.4
+West of Twin Peaks,Entire home/apt,3.0,299.0,326.6
+West of Twin Peaks,Entire home/apt,3.0,1000.0,349.4
+Western Addition,Entire home/apt,1.0,280.0,251.4
+Western Addition,Entire home/apt,1.0,95.0,183.2
+Western Addition,Entire home/apt,1.0,350.0,256.9
+Western Addition,Entire home/apt,2.0,475.0,385.7
+Western Addition,Private room,1.0,85.0,150.2
+Western Addition,Entire home/apt,2.0,495.0,373.2
+Western Addition,Entire home/apt,1.0,119.0,290.9
+Bayview,Entire home/apt,2.0,224.0,199.7
+Bernal Heights,Entire home/apt,1.0,108.0,143.8
+Bernal Heights,Entire home/apt,2.0,238.0,202.4
+Chinatown,Entire home/apt,3.0,450.0,373.5
+Downtown/Civic Center,Entire home/apt,1.0,132.0,227.2
+Excelsior,Entire home/apt,1.0,120.0,121.4
+Haight Ashbury,Entire home/apt,2.0,215.0,300.2
+Haight Ashbury,Entire home/apt,2.0,235.0,296.8
+Inner Richmond,Entire home/apt,4.0,750.0,520.2
+Marina,Entire home/apt,3.0,775.0,464.1
+Mission,Entire home/apt,2.0,219.0,277.1
+Mission,Entire home/apt,2.0,250.0,247.1
+Mission,Entire home/apt,1.0,175.0,66.7
+Mission,Entire home/apt,1.0,200.0,164.9
+Mission,Private room,1.0,125.0,170.1
+Mission,Entire home/apt,0.0,249.0,130.6
+Noe Valley,Private room,1.0,112.0,149.0
+Noe Valley,Entire home/apt,2.0,350.0,255.6
+Outer Mission,Entire home/apt,2.0,250.0,284.0
+Outer Sunset,Entire home/apt,2.0,300.0,237.7
+Pacific Heights,Entire home/apt,1.0,180.0,255.0
+Parkside,Private room,1.0,120.0,47.2
+Parkside,Entire home/apt,0.0,155.0,-9.8
+Russian Hill,Entire home/apt,2.0,197.0,304.5
+South of Market,Entire home/apt,2.0,595.0,397.2
+South of Market,Private room,1.0,156.0,190.3
+Western Addition,Entire home/apt,2.0,785.0,398.6
+Western Addition,Private room,1.0,44.0,106.9
+Western Addition,Entire home/apt,3.0,360.0,476.2
+Western Addition,Entire home/apt,1.0,170.0,209.1
+Western Addition,Private room,1.0,75.0,152.1
+Western Addition,Private room,1.0,99.0,122.2
+Bernal Heights,Entire home/apt,2.0,299.0,370.3
+Bernal Heights,Private room,1.0,85.0,18.3
+Excelsior,Private room,1.0,129.0,80.4
+Haight Ashbury,Private room,1.0,185.0,135.6
+Inner Richmond,Private room,1.0,85.0,69.3
+Inner Richmond,Entire home/apt,3.0,175.0,345.1
+Mission,Private room,1.0,269.0,154.1
+Mission,Entire home/apt,3.0,500.0,424.5
+Mission,Private room,1.0,89.0,143.2
+Mission,Private room,1.0,105.0,152.6
+Noe Valley,Entire home/apt,2.0,499.0,348.7
+Ocean View,Entire home/apt,6.0,689.0,624.9
+Outer Richmond,Private room,1.0,99.0,62.6
+Outer Richmond,Entire home/apt,3.0,520.0,399.8
+Pacific Heights,Private room,1.0,119.0,199.2
+Russian Hill,Entire home/apt,3.0,170.0,349.0
+South of Market,Private room,1.0,125.0,125.3
+Twin Peaks,Entire home/apt,2.0,147.0,154.9
+Western Addition,Entire home/apt,0.0,120.0,136.1
+Western Addition,Entire home/apt,2.0,350.0,378.9
+Castro/Upper Market,Entire home/apt,3.0,600.0,446.8
+Castro/Upper Market,Entire home/apt,5.0,1450.0,820.6
+Downtown/Civic Center,Shared room,1.0,79.0,188.7
+Glen Park,Private room,1.0,80.0,127.3
+Noe Valley,Entire home/apt,1.0,325.0,216.0
+Outer Mission,Private room,1.0,67.0,-25.1
+Outer Sunset,Entire home/apt,3.0,219.0,366.5
+Outer Sunset,Private room,1.0,95.0,95.3
+Potrero Hill,Private room,1.0,120.0,135.3
+West of Twin Peaks,Private room,1.0,100.0,99.4
+Bayview,Entire home/apt,3.0,269.0,374.3
+Haight Ashbury,Private room,1.0,92.0,88.1
+Inner Sunset,Private room,1.0,65.0,81.7
+Marina,Entire home/apt,3.0,225.0,399.8
+Mission,Entire home/apt,4.0,339.0,483.8
+Nob Hill,Private room,1.0,100.0,99.7
+Outer Sunset,Entire home/apt,1.0,64.0,130.2
+Outer Sunset,Entire home/apt,1.0,138.0,131.9
+Outer Sunset,Shared room,1.0,35.0,-31.7
+West of Twin Peaks,Private room,1.0,47.0,58.8
+Western Addition,Entire home/apt,1.0,115.0,197.2
+Western Addition,Entire home/apt,1.0,127.0,265.9
+Western Addition,Entire home/apt,0.0,100.0,102.1
+Western Addition,Entire home/apt,1.0,110.0,184.1
+Downtown/Civic Center,Entire home/apt,0.0,85.0,151.0
+Russian Hill,Entire home/apt,1.0,140.0,559.9
+Chinatown,Entire home/apt,3.0,200.0,472.9
+Financial District,Entire home/apt,1.0,300.0,277.9
+Noe Valley,Entire home/apt,4.0,475.0,561.6
+Western Addition,Shared room,1.0,83.0,241.9
+Western Addition,Private room,1.0,66.0,146.2
+Western Addition,Private room,1.0,35.0,83.4
+Haight Ashbury,Private room,1.0,65.0,104.0
+Haight Ashbury,Private room,1.0,65.0,90.1
+Outer Sunset,Private room,1.0,60.0,71.6
+Outer Sunset,Private room,1.0,48.0,37.9
+Outer Sunset,Private room,1.0,65.0,140.0
+Downtown/Civic Center,Private room,0.0,140.0,14.1
+Downtown/Civic Center,Private room,0.0,140.0,30.8
+Downtown/Civic Center,Private room,0.0,140.0,48.6
+Downtown/Civic Center,Private room,0.0,140.0,-4.1
+South of Market,Entire home/apt,0.0,140.0,217.9
+Parkside,Private room,1.0,75.0,-38.2
+Western Addition,Private room,1.0,125.0,239.3
+Chinatown,Shared room,1.0,30.0,86.7
+Russian Hill,Entire home/apt,1.0,148.0,310.1
+South of Market,Entire home/apt,2.0,258.0,302.9
+Castro/Upper Market,Private room,1.0,100.0,150.2
+Excelsior,Private room,1.0,43.0,19.5
+Excelsior,Private room,1.0,46.0,42.3
+Excelsior,Private room,1.0,40.0,4.8
+Excelsior,Private room,1.0,40.0,8.7
+Bernal Heights,Entire home/apt,1.0,118.0,54.9
+Haight Ashbury,Entire home/apt,1.0,121.0,102.8
+Haight Ashbury,Entire home/apt,3.0,177.0,244.4
+Inner Sunset,Entire home/apt,1.0,114.0,130.5
+Mission,Entire home/apt,2.0,114.0,225.6
+Mission,Entire home/apt,2.0,156.0,280.1
+Mission,Entire home/apt,1.0,99.0,171.2
+Western Addition,Entire home/apt,3.0,194.0,395.8
+Downtown/Civic Center,Private room,1.0,55.0,74.9
+Crocker Amazon,Private room,1.0,50.0,45.8
+Crocker Amazon,Shared room,1.0,40.0,-24.1
+Crocker Amazon,Shared room,1.0,45.0,-20.2
+Castro/Upper Market,Entire home/apt,1.0,168.0,230.5
+Chinatown,Entire home/apt,2.0,164.0,292.9
+Chinatown,Entire home/apt,0.0,110.0,119.9
+Chinatown,Entire home/apt,1.0,140.0,239.1
+Chinatown,Entire home/apt,1.0,140.0,174.8
+Mission,Entire home/apt,1.0,134.0,206.9
+Mission,Entire home/apt,1.0,135.0,194.5
+Mission,Entire home/apt,1.0,156.0,202.0
+Nob Hill,Entire home/apt,1.0,146.0,205.1
+Nob Hill,Entire home/apt,0.0,120.0,78.2
+Russian Hill,Entire home/apt,2.0,335.0,436.5
+Russian Hill,Entire home/apt,1.0,170.0,299.9
+Russian Hill,Entire home/apt,1.0,170.0,307.1
+Russian Hill,Entire home/apt,2.0,196.0,367.2
+Downtown/Civic Center,Private room,1.0,169.0,224.7
+Downtown/Civic Center,Entire home/apt,0.0,79.0,85.0
+Downtown/Civic Center,Entire home/apt,0.0,78.0,118.6
+Downtown/Civic Center,Entire home/apt,0.0,82.0,42.0
+Downtown/Civic Center,Entire home/apt,0.0,87.0,134.7
+Downtown/Civic Center,Entire home/apt,0.0,87.0,145.0
+Mission,Entire home/apt,1.0,114.0,227.3
+Mission,Entire home/apt,0.0,95.0,117.9
+Mission,Private room,1.0,85.0,126.8
+Mission,Entire home/apt,0.0,86.0,33.6
+Chinatown,Entire home/apt,2.0,310.0,350.8
+South of Market,Entire home/apt,0.0,190.0,179.3
+Chinatown,Private room,0.0,350.0,134.2
+Financial District,Entire home/apt,1.0,255.0,209.5
+Inner Richmond,Entire home/apt,2.0,270.0,244.3
+Inner Richmond,Entire home/apt,2.0,310.0,300.0
+Noe Valley,Entire home/apt,3.0,335.0,361.9
+Noe Valley,Entire home/apt,2.0,322.0,282.1
+North Beach,Entire home/apt,2.0,300.0,265.0
+North Beach,Entire home/apt,2.0,370.0,263.1
+Western Addition,Entire home/apt,2.0,375.0,313.8
+Financial District,Entire home/apt,1.0,239.0,209.0
+South of Market,Entire home/apt,1.0,129.0,153.9
+South of Market,Entire home/apt,1.0,139.0,157.1
+South of Market,Entire home/apt,1.0,149.0,157.2
+Bernal Heights,Entire home/apt,0.0,135.0,34.7
+Castro/Upper Market,Entire home/apt,1.0,249.0,199.5
+Castro/Upper Market,Entire home/apt,4.0,650.0,587.2
+Castro/Upper Market,Entire home/apt,2.0,450.0,281.6
+Castro/Upper Market,Entire home/apt,2.0,99.0,316.1
+Crocker Amazon,Private room,1.0,121.0,58.0
+Haight Ashbury,Entire home/apt,1.0,185.0,190.0
+Haight Ashbury,Entire home/apt,4.0,300.0,512.6
+Inner Richmond,Entire home/apt,1.0,249.0,142.3
+Inner Richmond,Entire home/apt,2.0,140.0,154.1
+Inner Richmond,Entire home/apt,3.0,550.0,382.3
+Inner Sunset,Entire home/apt,1.0,125.0,187.5
+Inner Sunset,Entire home/apt,1.0,121.0,127.2
+Marina,Entire home/apt,1.0,150.0,228.0
+Marina,Entire home/apt,3.0,325.0,526.1
+Mission,Entire home/apt,2.0,199.0,271.5
+Mission,Entire home/apt,3.0,249.0,420.8
+Mission,Private room,1.0,89.0,96.6
+Mission,Entire home/apt,2.0,275.0,323.6
+Nob Hill,Entire home/apt,1.0,107.0,221.2
+Nob Hill,Entire home/apt,0.0,110.0,73.5
+Nob Hill,Entire home/apt,3.0,9000.0,443.6
+Noe Valley,Entire home/apt,3.0,300.0,408.7
+Noe Valley,Entire home/apt,4.0,750.0,519.4
+Noe Valley,Entire home/apt,2.0,175.0,307.3
+North Beach,Entire home/apt,1.0,175.0,257.9
+Outer Mission,Entire home/apt,3.0,275.0,648.3
+Outer Richmond,Entire home/apt,3.0,387.0,463.7
+Pacific Heights,Entire home/apt,1.0,156.0,272.2
+Parkside,Entire home/apt,2.0,179.0,259.9
+Potrero Hill,Entire home/apt,2.0,300.0,321.5
+Presidio Heights,Private room,1.0,67.0,154.5
+Russian Hill,Entire home/apt,2.0,194.0,402.4
+Russian Hill,Entire home/apt,3.0,450.0,626.1
+Russian Hill,Entire home/apt,1.0,739.0,415.4
+South of Market,Entire home/apt,1.0,900.0,735.2
+Twin Peaks,Entire home/apt,2.0,190.0,307.9
+Bayview,Entire home/apt,2.0,111.0,217.6
+Bernal Heights,Entire home/apt,2.0,1000.0,252.7
+Castro/Upper Market,Entire home/apt,3.0,297.0,673.3
+Castro/Upper Market,Entire home/apt,2.0,900.0,228.6
+Chinatown,Entire home/apt,1.0,149.0,245.9
+Excelsior,Private room,1.0,48.0,-3.8
+Haight Ashbury,Entire home/apt,1.0,200.0,264.3
+Lakeshore,Entire home/apt,3.0,295.0,357.8
+North Beach,Entire home/apt,0.0,70.0,63.2
+Pacific Heights,Entire home/apt,1.0,200.0,367.3
+Western Addition,Entire home/apt,1.0,200.0,226.0
+Western Addition,Entire home/apt,1.0,160.0,182.6
+Downtown/Civic Center,Private room,1.0,599.0,140.1
+Lakeshore,Shared room,1.0,45.0,128.4
+Lakeshore,Shared room,1.0,45.0,55.1
+Mission,Private room,1.0,97.0,146.4
+Pacific Heights,Entire home/apt,4.0,920.0,573.4
+Parkside,Entire home/apt,3.0,650.0,346.6
+Russian Hill,Entire home/apt,3.0,170.0,316.4
+Haight Ashbury,Entire home/apt,3.0,504.0,344.4
+Haight Ashbury,Private room,1.0,99.0,95.3
+Haight Ashbury,Private room,1.0,89.0,72.6
+Potrero Hill,Private room,1.0,120.0,175.3
+South of Market,Entire home/apt,2.0,140.0,230.0
+Chinatown,Private room,1.0,57.0,66.6
+Downtown/Civic Center,Private room,0.0,145.0,102.5
+Financial District,Entire home/apt,2.0,289.0,399.4
+Mission,Entire home/apt,3.0,299.0,413.0
+North Beach,Private room,1.0,70.0,79.4
+North Beach,Private room,1.0,81.0,74.5
+Ocean View,Private room,1.0,49.0,99.4
+Ocean View,Private room,1.0,57.0,87.3
+Parkside,Private room,1.0,65.0,83.0
+Parkside,Private room,1.0,74.0,31.3
+Western Addition,Private room,1.0,175.0,250.0
+North Beach,Private room,1.0,80.0,146.7
+Russian Hill,Shared room,1.0,33.0,481.8
+Russian Hill,Shared room,1.0,31.0,476.2
+South of Market,Entire home/apt,0.0,85.0,147.4
+Mission,Private room,1.0,69.0,100.6
+Mission,Private room,1.0,59.0,132.6
+Nob Hill,Private room,1.0,60.0,119.0
+Nob Hill,Private room,1.0,60.0,107.8
+Inner Sunset,Entire home/apt,2.0,120.0,312.6
+Inner Sunset,Entire home/apt,2.0,102.0,295.9
+Lakeshore,Private room,1.0,45.0,-19.6
+Financial District,Private room,0.0,200.0,185.6
+Financial District,Private room,0.0,200.0,180.0
+Financial District,Private room,0.0,200.0,186.3
+Financial District,Private room,0.0,200.0,181.4
+Haight Ashbury,Entire home/apt,2.0,300.0,346.3
+Chinatown,Entire home/apt,0.0,95.0,145.5
+Downtown/Civic Center,Entire home/apt,0.0,115.0,273.8
+Downtown/Civic Center,Entire home/apt,0.0,95.0,215.0
+Financial District,Entire home/apt,0.0,90.0,160.0
+Financial District,Entire home/apt,0.0,90.0,213.9
+Financial District,Entire home/apt,0.0,150.0,215.2
+Downtown/Civic Center,Private room,1.0,59.0,75.7
+Crocker Amazon,Shared room,1.0,37.0,58.2
+Castro/Upper Market,Entire home/apt,2.0,203.0,361.6
+Downtown/Civic Center,Entire home/apt,0.0,78.0,122.1
+Downtown/Civic Center,Entire home/apt,0.0,77.0,135.9
+Mission,Entire home/apt,1.0,115.0,212.1
+Downtown/Civic Center,Private room,1.0,288.0,260.3
+Downtown/Civic Center,Entire home/apt,1.0,150.0,194.3
+Financial District,Entire home/apt,2.0,1599.0,344.8
+Financial District,Entire home/apt,1.0,170.0,215.8
+Marina,Entire home/apt,1.0,174.0,228.7
+Marina,Entire home/apt,1.0,164.0,229.0
+Marina,Entire home/apt,1.0,150.0,234.7
+Mission,Entire home/apt,1.0,150.0,172.1
+Mission,Entire home/apt,1.0,164.0,172.8
+Mission,Entire home/apt,2.0,207.0,307.5
+South of Market,Entire home/apt,1.0,160.0,173.0
+South of Market,Entire home/apt,1.0,150.0,174.4
+South of Market,Entire home/apt,1.0,150.0,183.3
+South of Market,Entire home/apt,1.0,177.0,176.2
+South of Market,Entire home/apt,1.0,177.0,178.9
+South of Market,Entire home/apt,1.0,147.0,183.1
+South of Market,Entire home/apt,1.0,147.0,183.3
+South of Market,Entire home/apt,1.0,150.0,183.9
+South of Market,Entire home/apt,1.0,147.0,184.3
+South of Market,Entire home/apt,1.0,147.0,186.9
+South of Market,Entire home/apt,1.0,194.0,206.4
+South of Market,Entire home/apt,0.0,160.0,148.2
+Western Addition,Entire home/apt,1.0,164.0,175.7
+Western Addition,Entire home/apt,1.0,164.0,176.8
+Western Addition,Entire home/apt,1.0,157.0,176.9
+Western Addition,Entire home/apt,1.0,157.0,177.0
+Western Addition,Entire home/apt,1.0,150.0,205.4
+Western Addition,Entire home/apt,0.0,140.0,151.3
+Marina,Entire home/apt,1.0,164.0,172.8
+South of Market,Entire home/apt,1.0,150.0,128.4
+South of Market,Entire home/apt,1.0,150.0,128.5
+South of Market,Entire home/apt,1.0,177.0,122.5
+South of Market,Entire home/apt,1.0,147.0,121.9
+South of Market,Entire home/apt,1.0,147.0,108.5
+South of Market,Entire home/apt,1.0,150.0,129.1
+South of Market,Entire home/apt,1.0,147.0,136.8
+South of Market,Entire home/apt,2.0,200.0,293.6
+South of Market,Entire home/apt,1.0,194.0,150.1
+South of Market,Entire home/apt,1.0,177.0,145.6
+Western Addition,Entire home/apt,1.0,150.0,150.3
+Western Addition,Entire home/apt,1.0,150.0,144.4
+Bernal Heights,Entire home/apt,0.0,85.0,-52.6
+Outer Richmond,Entire home/apt,3.0,216.0,290.6
+Seacliff,Entire home/apt,3.0,185.0,343.0
+Haight Ashbury,Entire home/apt,1.0,111.0,96.4
+Marina,Entire home/apt,0.0,111.0,162.6
+Outer Richmond,Entire home/apt,1.0,122.0,78.2
+Pacific Heights,Entire home/apt,0.0,91.0,220.4
+Castro/Upper Market,Entire home/apt,1.0,135.0,180.9
+Haight Ashbury,Entire home/apt,1.0,135.0,92.2
+Haight Ashbury,Entire home/apt,2.0,132.0,238.7
+Inner Richmond,Entire home/apt,2.0,140.0,185.1
+Pacific Heights,Entire home/apt,0.0,90.0,219.4
+Western Addition,Entire home/apt,2.0,150.0,316.3
+Bernal Heights,Private room,1.0,115.0,66.6
+Excelsior,Entire home/apt,2.0,145.0,198.8
+Inner Richmond,Private room,1.0,125.0,92.9
+Inner Sunset,Entire home/apt,1.0,100.0,178.4
+Marina,Private room,1.0,139.0,164.1
+Marina,Private room,1.0,90.0,214.1
+Noe Valley,Entire home/apt,2.0,350.0,327.9
+Outer Sunset,Private room,1.0,81.0,98.5
+Outer Sunset,Entire home/apt,1.0,140.0,159.8
+Outer Sunset,Entire home/apt,0.0,125.0,17.6
+Pacific Heights,Entire home/apt,1.0,185.0,309.6
+Parkside,Entire home/apt,2.0,99.0,219.4
+Parkside,Private room,1.0,60.0,52.7
+Russian Hill,Entire home/apt,4.0,549.0,645.1
+South of Market,Private room,1.0,160.0,136.8
+South of Market,Entire home/apt,2.0,215.0,323.2
+Western Addition,Entire home/apt,2.0,250.0,337.6
+Bernal Heights,Private room,1.0,64.0,98.2
+Bernal Heights,Entire home/apt,3.0,270.0,379.8
+Downtown/Civic Center,Private room,1.0,150.0,194.4
+Excelsior,Private room,1.0,85.0,57.4
+Haight Ashbury,Entire home/apt,2.0,154.0,243.7
+Mission,Entire home/apt,1.0,220.0,179.4
+Nob Hill,Entire home/apt,3.0,188.0,410.3
+Outer Mission,Private room,1.0,200.0,62.4
+Outer Sunset,Entire home/apt,1.0,100.0,192.0
+Potrero Hill,Entire home/apt,2.0,350.0,314.7
+South of Market,Private room,1.0,200.0,265.2
+Bernal Heights,Private room,1.0,90.0,98.2
+Mission,Private room,1.0,122.0,90.4
+Seacliff,Private room,2.0,1451.0,355.2
+South of Market,Private room,1.0,140.0,134.6
+Western Addition,Entire home/apt,2.0,240.0,344.7
+Downtown/Civic Center,Private room,1.0,125.0,188.6
+Ocean View,Private room,3.0,399.0,344.3
+Parkside,Private room,1.0,80.0,89.2
+Excelsior,Private room,1.0,107.0,165.8
+Excelsior,Private room,1.0,59.0,138.4
+Outer Sunset,Private room,1.0,120.0,138.9
+Parkside,Shared room,1.0,36.0,2.1
+Parkside,Private room,1.0,65.0,43.6
+Mission,Private room,1.0,80.0,96.8
+Bayview,Private room,1.0,65.0,34.6
+Bernal Heights,Private room,1.0,80.0,96.5
+Bernal Heights,Entire home/apt,2.0,225.0,267.2
+Excelsior,Entire home/apt,1.0,125.0,168.6
+Excelsior,Private room,1.0,90.0,49.5
+Inner Sunset,Private room,1.0,66.0,98.0
+Lakeshore,Entire home/apt,1.0,140.0,189.3
+Mission,Private room,1.0,135.0,137.6
+Parkside,Entire home/apt,1.0,150.0,111.7
+Russian Hill,Entire home/apt,2.0,295.0,497.8
+South of Market,Entire home/apt,1.0,300.0,263.5
+South of Market,Entire home/apt,2.0,280.0,377.4
+Western Addition,Private room,1.0,150.0,223.5
+Western Addition,Entire home/apt,1.0,175.0,270.1
+Downtown/Civic Center,Private room,1.0,249.0,229.7
+Haight Ashbury,Entire home/apt,2.0,150.0,263.9
+Inner Sunset,Entire home/apt,0.0,139.0,177.4
+Mission,Private room,1.0,174.0,82.4
+Mission,Private room,1.0,189.0,175.3
+Excelsior,Private room,1.0,68.0,31.6
+Noe Valley,Entire home/apt,1.0,150.0,235.4
+Parkside,Private room,1.0,80.0,91.7
+Bayview,Private room,1.0,85.0,77.3
+Lakeshore,Private room,1.0,79.0,29.2
+Noe Valley,Private room,1.0,99.0,114.8
+Noe Valley,Private room,1.0,105.0,98.2
+Chinatown,Private room,1.0,120.0,143.0
+Chinatown,Private room,1.0,300.0,279.8
+Chinatown,Private room,1.0,250.0,209.7
+Chinatown,Private room,1.0,250.0,195.9
+Downtown/Civic Center,Private room,1.0,325.0,307.9
+Financial District,Entire home/apt,1.0,250.0,303.0
+Bayview,Entire home/apt,1.0,219.0,76.5
+Bayview,Private room,1.0,90.0,39.3
+Bernal Heights,Entire home/apt,0.0,125.0,77.7
+Bernal Heights,Entire home/apt,1.0,95.0,118.6
+Bernal Heights,Entire home/apt,1.0,100.0,91.1
+Bernal Heights,Entire home/apt,1.0,100.0,113.8
+Bernal Heights,Entire home/apt,0.0,125.0,16.4
+Bernal Heights,Entire home/apt,1.0,125.0,92.2
+Bernal Heights,Entire home/apt,2.0,250.0,272.8
+Bernal Heights,Entire home/apt,2.0,275.0,256.7
+Bernal Heights,Entire home/apt,1.0,195.0,135.3
+Bernal Heights,Entire home/apt,1.0,145.0,122.9
+Bernal Heights,Entire home/apt,2.0,225.0,241.2
+Castro/Upper Market,Private room,1.0,85.0,141.6
+Castro/Upper Market,Entire home/apt,2.0,400.0,322.1
+Castro/Upper Market,Entire home/apt,1.0,180.0,184.4
+Castro/Upper Market,Private room,1.0,160.0,143.0
+Castro/Upper Market,Entire home/apt,2.0,250.0,269.0
+Castro/Upper Market,Private room,1.0,99.0,102.9
+Crocker Amazon,Entire home/apt,0.0,71.0,135.0
+Excelsior,Entire home/apt,1.0,117.0,30.0
+Excelsior,Entire home/apt,1.0,100.0,112.8
+Excelsior,Entire home/apt,2.0,135.0,229.2
+Glen Park,Entire home/apt,1.0,135.0,128.0
+Haight Ashbury,Entire home/apt,1.0,195.0,184.2
+Haight Ashbury,Entire home/apt,0.0,195.0,79.6
+Inner Richmond,Private room,1.0,120.0,83.7
+Inner Richmond,Entire home/apt,1.0,149.0,75.0
+Inner Richmond,Private room,1.0,65.0,25.9
+Inner Richmond,Entire home/apt,3.0,390.0,313.6
+Inner Sunset,Entire home/apt,2.0,329.0,279.3
+Inner Sunset,Entire home/apt,1.0,110.0,152.7
+Inner Sunset,Private room,1.0,139.0,154.3
+Mission,Entire home/apt,1.0,129.0,171.3
+Mission,Entire home/apt,2.0,275.0,296.5
+Mission,Entire home/apt,2.0,135.0,264.2
+Mission,Private room,1.0,135.0,175.2
+Mission,Entire home/apt,1.0,299.0,164.3
+Mission,Private room,1.0,75.0,114.4
+Mission,Private room,1.0,90.0,142.9
+Mission,Entire home/apt,2.0,290.0,279.3
+Mission,Entire home/apt,2.0,120.0,263.6
+Mission,Entire home/apt,3.0,599.0,453.1
+Mission,Entire home/apt,3.0,450.0,453.5
+Mission,Entire home/apt,1.0,100.0,163.8
+Mission,Private room,1.0,90.0,131.9
+Mission,Private room,1.0,93.0,71.1
+Mission,Entire home/apt,1.0,140.0,154.3
+Mission,Private room,1.0,129.0,138.2
+Nob Hill,Entire home/apt,0.0,200.0,124.7
+Nob Hill,Entire home/apt,1.0,156.0,175.2
+Nob Hill,Entire home/apt,1.0,195.0,203.3
+Nob Hill,Entire home/apt,1.0,125.0,221.3
+Noe Valley,Entire home/apt,1.0,111.0,119.7
+Noe Valley,Private room,1.0,115.0,67.6
+Noe Valley,Entire home/apt,3.0,299.0,375.2
+Noe Valley,Entire home/apt,0.0,215.0,55.7
+Noe Valley,Entire home/apt,1.0,180.0,127.8
+Noe Valley,Entire home/apt,1.0,200.0,215.2
+Noe Valley,Entire home/apt,1.0,259.0,156.4
+Noe Valley,Private room,1.0,142.0,166.8
+North Beach,Entire home/apt,2.0,185.0,327.2
+Outer Mission,Private room,1.0,200.0,63.9
+Outer Mission,Entire home/apt,1.0,149.0,157.5
+Outer Richmond,Entire home/apt,1.0,150.0,111.6
+Outer Sunset,Entire home/apt,1.0,153.0,34.5
+Outer Sunset,Entire home/apt,0.0,150.0,12.4
+Outer Sunset,Entire home/apt,1.0,175.0,206.5
+Outer Sunset,Private room,1.0,90.0,34.0
+Outer Sunset,Entire home/apt,1.0,100.0,106.1
+Outer Sunset,Entire home/apt,3.0,399.0,370.9
+Pacific Heights,Entire home/apt,1.0,210.0,270.9
+Pacific Heights,Private room,1.0,155.0,233.5
+Parkside,Entire home/apt,1.0,211.0,84.2
+Parkside,Entire home/apt,1.0,175.0,76.0
+Potrero Hill,Entire home/apt,1.0,249.0,204.9
+Potrero Hill,Entire home/apt,2.0,195.0,287.9
+Potrero Hill,Entire home/apt,2.0,450.0,283.3
+Potrero Hill,Entire home/apt,1.0,499.0,252.1
+Russian Hill,Entire home/apt,1.0,350.0,308.7
+South of Market,Entire home/apt,2.0,299.0,299.4
+South of Market,Entire home/apt,2.0,425.0,372.1
+South of Market,Entire home/apt,0.0,170.0,91.4
+South of Market,Private room,1.0,89.0,141.2
+South of Market,Entire home/apt,2.0,525.0,440.6
+Twin Peaks,Private room,2.0,155.0,311.2
+Visitacion Valley,Entire home/apt,1.0,60.0,11.0
+West of Twin Peaks,Private room,1.0,80.0,100.7
+West of Twin Peaks,Entire home/apt,2.0,65.0,267.8
+West of Twin Peaks,Entire home/apt,2.0,140.0,267.6
+Western Addition,Private room,1.0,99.0,59.0
+Western Addition,Private room,1.0,125.0,138.7
+Western Addition,Entire home/apt,4.0,750.0,511.7
+Western Addition,Private room,1.0,99.0,126.6
+Western Addition,Entire home/apt,3.0,800.0,428.5
+Western Addition,Entire home/apt,1.0,210.0,242.4
+Western Addition,Entire home/apt,2.0,315.0,283.8
+Western Addition,Entire home/apt,0.0,125.0,160.5
+Western Addition,Entire home/apt,1.0,83.0,277.5
+Western Addition,Entire home/apt,1.0,210.0,264.3
+Castro/Upper Market,Private room,1.0,97.0,152.8
+Castro/Upper Market,Private room,1.0,123.0,155.7
+Castro/Upper Market,Private room,1.0,160.0,168.3
+Crocker Amazon,Entire home/apt,1.0,88.0,67.0
+Glen Park,Private room,1.0,69.0,102.4
+Glen Park,Entire home/apt,2.0,219.0,317.6
+Haight Ashbury,Entire home/apt,4.0,390.0,456.3
+Inner Sunset,Private room,1.0,170.0,192.4
+Marina,Entire home/apt,1.0,128.0,234.8
+Mission,Private room,1.0,170.0,87.6
+Mission,Private room,1.0,140.0,92.7
+Mission,Entire home/apt,3.0,545.0,498.4
+Mission,Entire home/apt,1.0,240.0,234.0
+Mission,Entire home/apt,2.0,400.0,309.2
+Noe Valley,Entire home/apt,2.0,350.0,344.8
+Noe Valley,Entire home/apt,1.0,165.0,147.8
+Noe Valley,Private room,1.0,75.0,159.6
+Noe Valley,Entire home/apt,1.0,249.0,223.0
+Noe Valley,Entire home/apt,2.0,300.0,375.0
+Outer Mission,Entire home/apt,3.0,250.0,451.3
+Outer Sunset,Entire home/apt,4.0,549.0,486.4
+Pacific Heights,Entire home/apt,2.0,225.0,389.4
+Parkside,Private room,1.0,49.0,-32.2
+Parkside,Entire home/apt,1.0,140.0,130.6
+Parkside,Entire home/apt,1.0,150.0,121.8
+Potrero Hill,Private room,1.0,140.0,126.5
+Potrero Hill,Entire home/apt,1.0,125.0,153.6
+Potrero Hill,Private room,1.0,150.0,98.9
+Russian Hill,Private room,1.0,250.0,258.6
+South of Market,Private room,1.0,113.0,128.0
+South of Market,Private room,1.0,128.0,215.9
+South of Market,Entire home/apt,1.0,123.0,303.2
+Western Addition,Entire home/apt,3.0,550.0,492.0
+Western Addition,Private room,1.0,99.0,157.4
+Bayview,Private room,1.0,103.0,52.3
+Bernal Heights,Private room,1.0,90.0,41.8
+Bernal Heights,Private room,1.0,90.0,39.5
+Bernal Heights,Entire home/apt,1.0,164.0,56.3
+Bernal Heights,Entire home/apt,1.0,155.0,142.0
+Bernal Heights,Private room,1.0,164.0,120.0
+Bernal Heights,Private room,1.0,102.0,76.8
+Excelsior,Entire home/apt,5.0,550.0,646.1
+Excelsior,Entire home/apt,3.0,155.0,297.9
+Inner Richmond,Private room,1.0,150.0,105.1
+Mission,Private room,1.0,150.0,164.2
+Nob Hill,Private room,1.0,115.0,154.9
+Outer Mission,Private room,1.0,69.0,8.7
+Outer Mission,Private room,1.0,78.0,26.3
+Outer Richmond,Entire home/apt,2.0,306.0,286.9
+South of Market,Private room,1.0,176.0,185.4
+South of Market,Private room,1.0,159.0,90.1
+South of Market,Entire home/apt,1.0,197.0,228.7
+Western Addition,Entire home/apt,3.0,550.0,399.0
+Western Addition,Private room,1.0,56.0,133.9
+Western Addition,Private room,2.0,105.0,244.4
+Western Addition,Private room,1.0,110.0,103.8
+Western Addition,Entire home/apt,0.0,150.0,162.6
+Haight Ashbury,Entire home/apt,3.0,375.0,362.2
+Haight Ashbury,Private room,1.0,199.0,92.1
+Inner Richmond,Entire home/apt,3.0,399.0,364.3
+Inner Richmond,Entire home/apt,3.0,399.0,394.1
+Mission,Private room,1.0,116.0,105.8
+Outer Sunset,Private room,1.0,100.0,88.1
+Outer Sunset,Private room,1.0,100.0,158.1
+Parkside,Entire home/apt,4.0,575.0,616.4
+Russian Hill,Entire home/apt,1.0,214.0,255.1
+Marina,Private room,1.0,119.0,172.4
+Marina,Private room,1.0,159.0,184.9
+Noe Valley,Entire home/apt,1.0,250.0,207.3
+West of Twin Peaks,Entire home/apt,1.0,79.0,69.6
+Western Addition,Entire home/apt,1.0,155.0,263.0
+Bernal Heights,Private room,1.0,59.0,-44.2
+Castro/Upper Market,Entire home/apt,0.0,500.0,114.1
+Potrero Hill,Private room,1.0,150.0,157.6
+Downtown/Civic Center,Private room,1.0,219.0,162.5
+Outer Mission,Private room,1.0,90.0,91.9
+Pacific Heights,Private room,1.0,55.0,132.4
+Pacific Heights,Entire home/apt,1.0,130.0,267.0
+Pacific Heights,Entire home/apt,1.0,140.0,284.7
+Visitacion Valley,Private room,1.0,90.0,62.2
+Inner Sunset,Private room,1.0,100.0,159.6
+Noe Valley,Entire home/apt,3.0,250.0,411.3
+Western Addition,Entire home/apt,2.0,334.0,327.9
+Haight Ashbury,Shared room,1.0,50.0,5.2
+Haight Ashbury,Entire home/apt,2.0,179.0,219.7
+Mission,Entire home/apt,2.0,131.0,265.0
+South of Market,Entire home/apt,2.0,224.0,300.0
+Castro/Upper Market,Entire home/apt,2.0,235.0,294.2
+Chinatown,Entire home/apt,2.0,209.0,270.4
+Downtown/Civic Center,Entire home/apt,1.0,172.0,155.0
+Downtown/Civic Center,Entire home/apt,0.0,138.0,98.1
+Downtown/Civic Center,Entire home/apt,1.0,166.0,157.5
+Downtown/Civic Center,Entire home/apt,0.0,137.0,99.6
+Downtown/Civic Center,Entire home/apt,1.0,176.0,232.4
+Haight Ashbury,Entire home/apt,1.0,178.0,154.7
+Nob Hill,Entire home/apt,1.0,154.0,185.9
+Nob Hill,Entire home/apt,0.0,140.0,68.9
+North Beach,Entire home/apt,2.0,191.0,238.4
+Outer Mission,Entire home/apt,4.0,270.0,483.9
+Potrero Hill,Entire home/apt,3.0,276.0,379.1
+Potrero Hill,Entire home/apt,3.0,238.0,358.7
+Potrero Hill,Entire home/apt,3.0,227.0,283.5
+Potrero Hill,Entire home/apt,2.0,218.0,256.0
+Potrero Hill,Entire home/apt,2.0,195.0,199.5
+Potrero Hill,Entire home/apt,2.0,218.0,252.3
+Russian Hill,Entire home/apt,2.0,209.0,385.4
+South of Market,Entire home/apt,3.0,240.0,391.5
+South of Market,Entire home/apt,1.0,172.0,198.4
+South of Market,Entire home/apt,4.0,546.0,523.1
+South of Market,Entire home/apt,2.0,243.0,274.9
+South of Market,Entire home/apt,1.0,157.0,162.4
+South of Market,Entire home/apt,2.0,225.0,335.3
+South of Market,Entire home/apt,0.0,125.0,110.2
+South of Market,Entire home/apt,2.0,198.0,114.4
+Western Addition,Entire home/apt,2.0,225.0,271.4
+Western Addition,Entire home/apt,2.0,201.0,314.4
+Western Addition,Entire home/apt,0.0,143.0,87.1
+Western Addition,Entire home/apt,4.0,333.0,559.2
+Western Addition,Entire home/apt,3.0,283.0,422.5
+Western Addition,Entire home/apt,3.0,283.0,464.1
+Western Addition,Entire home/apt,2.0,207.0,276.4
+Bayview,Entire home/apt,2.0,179.0,203.7
+Bayview,Entire home/apt,0.0,115.0,52.3
+Bayview,Entire home/apt,1.0,88.0,78.7
+Bernal Heights,Entire home/apt,1.0,140.0,112.0
+Bernal Heights,Entire home/apt,2.0,199.0,216.2
+Bernal Heights,Entire home/apt,1.0,167.0,213.8
+Castro/Upper Market,Entire home/apt,1.0,175.0,114.9
+Castro/Upper Market,Entire home/apt,1.0,149.0,250.1
+Crocker Amazon,Entire home/apt,1.0,99.0,192.8
+Excelsior,Private room,2.0,90.0,153.5
+Excelsior,Entire home/apt,2.0,149.0,220.1
+Haight Ashbury,Entire home/apt,0.0,300.0,173.8
+Haight Ashbury,Entire home/apt,0.0,205.0,104.0
+Inner Sunset,Entire home/apt,1.0,150.0,229.1
+Inner Sunset,Entire home/apt,1.0,145.0,179.8
+Mission,Entire home/apt,3.0,475.0,580.3
+Mission,Private room,1.0,140.0,109.4
+Noe Valley,Entire home/apt,1.0,146.0,183.2
+Noe Valley,Private room,1.0,99.0,108.1
+North Beach,Entire home/apt,1.0,150.0,175.0
+North Beach,Entire home/apt,2.0,270.0,287.7
+Outer Mission,Private room,1.0,104.0,74.2
+Outer Sunset,Entire home/apt,0.0,120.0,61.7
+Outer Sunset,Entire home/apt,2.0,218.0,241.0
+Outer Sunset,Private room,1.0,115.0,111.1
+Outer Sunset,Entire home/apt,3.0,699.0,357.3
+Outer Sunset,Entire home/apt,2.0,230.0,255.3
+Outer Sunset,Entire home/apt,0.0,199.0,132.1
+Outer Sunset,Entire home/apt,2.0,160.0,165.7
+Parkside,Private room,1.0,8000.0,60.0
+Parkside,Private room,1.0,99.0,33.2
+Potrero Hill,Entire home/apt,2.0,239.0,279.6
+Potrero Hill,Entire home/apt,1.0,125.0,224.9
+Russian Hill,Entire home/apt,0.0,195.0,274.2
+South of Market,Private room,1.0,200.0,184.4
+West of Twin Peaks,Private room,1.0,141.0,109.6
+West of Twin Peaks,Entire home/apt,0.0,135.0,56.5
+Western Addition,Private room,1.0,119.0,142.6
+Western Addition,Private room,1.0,109.0,153.4
+Western Addition,Private room,1.0,100.0,155.5
+Bernal Heights,Private room,1.0,75.0,65.4
+Bernal Heights,Private room,1.0,80.0,20.9
+Bernal Heights,Private room,1.0,158.0,90.9
+Bernal Heights,Entire home/apt,3.0,600.0,473.9
+Castro/Upper Market,Private room,1.0,119.0,160.8
+Chinatown,Entire home/apt,2.0,349.0,285.8
+Mission,Entire home/apt,2.0,500.0,362.1
+Mission,Private room,1.0,140.0,179.7
+Noe Valley,Private room,1.0,85.0,145.7
+Ocean View,Private room,1.0,53.0,45.6
+Outer Mission,Private room,1.0,75.0,61.1
+Outer Richmond,Entire home/apt,3.0,250.0,434.2
+Outer Richmond,Private room,1.0,125.0,81.9
+Outer Sunset,Private room,1.0,90.0,-1.6
+Visitacion Valley,Entire home/apt,0.0,150.0,20.7
+Visitacion Valley,Entire home/apt,0.0,98.0,40.4
+Western Addition,Private room,1.0,90.0,83.1
+Western Addition,Entire home/apt,1.0,195.0,245.0
+Bernal Heights,Private room,1.0,102.0,85.5
+Excelsior,Private room,1.0,115.0,63.7
+Haight Ashbury,Entire home/apt,3.0,400.0,406.5
+Outer Mission,Private room,1.0,50.0,14.7
+Outer Sunset,Private room,2.0,200.0,285.7
+Outer Sunset,Private room,1.0,80.0,67.4
+Pacific Heights,Private room,1.0,139.0,198.8
+Pacific Heights,Private room,1.0,139.0,200.6
+South of Market,Entire home/apt,2.0,150.0,486.0
+Western Addition,Entire home/apt,3.0,500.0,479.1
+Mission,Private room,1.0,95.0,71.3
+Mission,Private room,1.0,149.0,94.4
+Outer Mission,Private room,1.0,69.0,43.2
+Outer Mission,Private room,1.0,69.0,43.6
+Outer Richmond,Private room,1.0,100.0,56.7
+Outer Sunset,Private room,1.0,74.0,70.5
+Outer Sunset,Entire home/apt,2.0,159.0,233.2
+Outer Sunset,Private room,1.0,70.0,123.5
+Outer Sunset,Private room,1.0,70.0,104.6
+Pacific Heights,Entire home/apt,2.0,700.0,564.1
+Parkside,Private room,1.0,75.0,43.2
+Parkside,Entire home/apt,3.0,200.0,353.4
+Pacific Heights,Entire home/apt,1.0,245.0,349.2
+Mission,Entire home/apt,0.0,90.0,123.6
+Outer Mission,Private room,1.0,80.0,94.7
+Outer Mission,Private room,1.0,80.0,87.9
+Outer Mission,Private room,1.0,110.0,90.7
+Haight Ashbury,Private room,1.0,100.0,97.0
+Haight Ashbury,Private room,1.0,90.0,109.5
+Haight Ashbury,Private room,1.0,100.0,28.3
+Haight Ashbury,Shared room,1.0,50.0,74.3
+Haight Ashbury,Private room,1.0,90.0,51.9
+Haight Ashbury,Private room,1.0,100.0,69.5
+Mission,Entire home/apt,2.0,172.0,186.0
+Castro/Upper Market,Entire home/apt,1.0,140.0,157.6
+Downtown/Civic Center,Entire home/apt,0.0,130.0,-28.1
+Inner Richmond,Entire home/apt,1.0,132.0,67.9
+Mission,Entire home/apt,2.0,217.0,255.9
+Nob Hill,Entire home/apt,0.0,133.0,107.2
+Noe Valley,Entire home/apt,2.0,170.0,214.2
+Ocean View,Entire home/apt,1.0,132.0,8.2
+Potrero Hill,Entire home/apt,2.0,187.0,235.7
+South of Market,Entire home/apt,0.0,126.0,75.7
+South of Market,Entire home/apt,2.0,193.0,270.7
+South of Market,Entire home/apt,0.0,127.0,78.4
+Twin Peaks,Entire home/apt,2.0,220.0,313.8
+Western Addition,Entire home/apt,0.0,122.0,86.6
+Bayview,Private room,1.0,59.0,-65.1
+Bernal Heights,Entire home/apt,1.0,210.0,162.3
+Castro/Upper Market,Entire home/apt,3.0,650.0,468.5
+Castro/Upper Market,Entire home/apt,1.0,150.0,165.5
+Castro/Upper Market,Entire home/apt,2.0,300.0,370.1
+Castro/Upper Market,Entire home/apt,2.0,395.0,343.3
+Castro/Upper Market,Entire home/apt,1.0,260.0,193.9
+Downtown/Civic Center,Private room,1.0,115.0,110.3
+Excelsior,Entire home/apt,2.0,185.0,208.3
+Financial District,Private room,1.0,235.0,181.6
+Haight Ashbury,Entire home/apt,1.0,195.0,156.7
+Inner Richmond,Private room,1.0,155.0,112.5
+Inner Richmond,Entire home/apt,2.0,245.0,205.4
+Inner Richmond,Private room,1.0,82.0,112.6
+Inner Sunset,Entire home/apt,2.0,365.0,337.9
+Inner Sunset,Private room,1.0,129.0,166.8
+Marina,Entire home/apt,3.0,595.0,465.2
+Marina,Entire home/apt,7.0,1395.0,804.0
+Mission,Entire home/apt,2.0,187.0,218.1
+Mission,Entire home/apt,2.0,125.0,218.4
+Mission,Entire home/apt,0.0,165.0,87.3
+Mission,Private room,2.0,145.0,178.7
+Mission,Entire home/apt,2.0,200.0,297.6
+Mission,Entire home/apt,1.0,97.0,153.0
+Mission,Entire home/apt,1.0,160.0,112.4
+Mission,Entire home/apt,2.0,210.0,288.2
+Mission,Entire home/apt,0.0,170.0,94.5
+Mission,Entire home/apt,5.0,1025.0,658.9
+Mission,Entire home/apt,1.0,250.0,176.6
+Nob Hill,Entire home/apt,1.0,325.0,219.9
+Nob Hill,Entire home/apt,1.0,150.0,234.2
+Noe Valley,Entire home/apt,1.0,225.0,182.7
+Noe Valley,Private room,1.0,125.0,98.4
+Noe Valley,Private room,1.0,85.0,132.8
+Noe Valley,Entire home/apt,3.0,340.0,375.7
+Noe Valley,Entire home/apt,3.0,350.0,386.8
+Outer Richmond,Entire home/apt,1.0,164.0,158.3
+Outer Richmond,Entire home/apt,3.0,280.0,421.6
+Outer Richmond,Entire home/apt,1.0,120.0,105.3
+Outer Richmond,Entire home/apt,1.0,160.0,186.9
+Outer Sunset,Entire home/apt,2.0,220.0,281.3
+Outer Sunset,Entire home/apt,1.0,140.0,126.4
+Outer Sunset,Entire home/apt,1.0,105.0,109.7
+Outer Sunset,Private room,1.0,190.0,82.4
+Pacific Heights,Entire home/apt,4.0,375.0,637.8
+Parkside,Entire home/apt,2.0,183.0,183.2
+Parkside,Entire home/apt,3.0,499.0,487.0
+Potrero Hill,Private room,1.0,130.0,92.1
+Potrero Hill,Entire home/apt,0.0,224.0,209.8
+Potrero Hill,Entire home/apt,1.0,190.0,192.0
+Russian Hill,Entire home/apt,1.0,165.0,199.4
+South of Market,Entire home/apt,1.0,127.0,273.7
+South of Market,Entire home/apt,2.0,180.0,303.5
+Twin Peaks,Entire home/apt,1.0,129.0,208.5
+Twin Peaks,Entire home/apt,1.0,185.0,244.6
+Western Addition,Entire home/apt,2.0,295.0,266.9
+Western Addition,Entire home/apt,1.0,250.0,172.8
+Western Addition,Entire home/apt,4.0,800.0,615.9
+Bayview,Private room,1.0,60.0,43.6
+Castro/Upper Market,Entire home/apt,0.0,175.0,212.6
+Castro/Upper Market,Entire home/apt,1.0,345.0,226.3
+Castro/Upper Market,Private room,1.0,85.0,136.2
+Castro/Upper Market,Private room,1.0,120.0,169.4
+Downtown/Civic Center,Private room,1.0,79.0,111.6
+Downtown/Civic Center,Private room,1.0,79.0,158.4
+Haight Ashbury,Private room,1.0,152.0,113.9
+Haight Ashbury,Entire home/apt,4.0,699.0,432.4
+Haight Ashbury,Entire home/apt,0.0,295.0,95.5
+Inner Sunset,Private room,1.0,120.0,208.6
+Inner Sunset,Private room,1.0,71.0,193.0
+Marina,Entire home/apt,3.0,1195.0,542.0
+Marina,Entire home/apt,1.0,220.0,287.6
+Marina,Entire home/apt,1.0,329.0,256.9
+Mission,Entire home/apt,0.0,260.0,104.0
+Mission,Entire home/apt,2.0,300.0,278.6
+Mission,Entire home/apt,1.0,199.0,237.7
+Mission,Entire home/apt,3.0,650.0,667.1
+Mission,Entire home/apt,3.0,700.0,467.6
+Nob Hill,Entire home/apt,1.0,140.0,216.6
+Noe Valley,Entire home/apt,1.0,125.0,164.4
+Noe Valley,Entire home/apt,3.0,400.0,472.9
+Outer Sunset,Entire home/apt,2.0,350.0,281.7
+Potrero Hill,Private room,1.0,150.0,233.3
+South of Market,Entire home/apt,2.0,185.0,387.9
+South of Market,Private room,1.0,80.0,122.8
+South of Market,Entire home/apt,2.0,250.0,401.9
+Visitacion Valley,Entire home/apt,2.0,150.0,282.2
+Western Addition,Entire home/apt,3.0,480.0,472.9
+Western Addition,Entire home/apt,3.0,600.0,483.0
+Western Addition,Private room,1.0,100.0,199.4
+Bernal Heights,Entire home/apt,3.0,250.0,498.8
+Excelsior,Entire home/apt,1.0,120.0,87.6
+Haight Ashbury,Private room,1.0,195.0,98.1
+Inner Sunset,Private room,1.0,150.0,126.0
+Inner Sunset,Private room,1.0,109.0,164.7
+Marina,Entire home/apt,2.0,485.0,372.8
+Marina,Private room,1.0,395.0,257.1
+Outer Richmond,Entire home/apt,2.0,249.0,314.5
+Western Addition,Private room,0.0,210.0,73.6
+Western Addition,Private room,1.0,89.0,89.9
+Castro/Upper Market,Private room,1.0,175.0,158.2
+Castro/Upper Market,Private room,2.0,251.0,229.0
+Haight Ashbury,Entire home/apt,1.0,225.0,164.9
+Inner Richmond,Entire home/apt,2.0,300.0,345.7
+Inner Richmond,Private room,1.0,400.0,151.8
+Inner Richmond,Entire home/apt,2.0,230.0,363.8
+Marina,Private room,1.0,155.0,180.4
+Marina,Private room,1.0,170.0,262.2
+Mission,Entire home/apt,3.0,499.0,427.9
+Mission,Private room,1.0,120.0,243.1
+Mission,Entire home/apt,2.0,699.0,413.6
+Outer Sunset,Entire home/apt,3.0,300.0,382.6
+Pacific Heights,Private room,1.0,91.0,202.3
+Twin Peaks,Entire home/apt,2.0,216.0,318.7
+Western Addition,Private room,1.0,900.0,193.6
+Western Addition,Entire home/apt,3.0,275.0,475.5
+Western Addition,Entire home/apt,6.0,2250.0,954.7
+Mission,Private room,1.0,97.0,117.2
+Mission,Private room,1.0,97.0,115.2
+Mission,Private room,1.0,77.0,90.4
+Nob Hill,Private room,1.0,150.0,153.7
+North Beach,Private room,1.0,60.0,74.2
+Parkside,Shared room,1.0,28.0,-39.5
+Bayview,Private room,1.0,58.0,27.6
+Bayview,Private room,1.0,62.0,40.3
+Financial District,Entire home/apt,1.0,300.0,258.3
+Haight Ashbury,Entire home/apt,2.0,150.0,284.0
+Nob Hill,Entire home/apt,1.0,148.0,172.0
+Nob Hill,Private room,1.0,90.0,106.1
+South of Market,Entire home/apt,1.0,200.0,232.3
+Chinatown,Shared room,1.0,30.0,91.9
+Chinatown,Shared room,1.0,30.0,109.3
+Outer Mission,Entire home/apt,4.0,209.0,307.9
+Downtown/Civic Center,Entire home/apt,0.0,265.0,222.9
+Downtown/Civic Center,Entire home/apt,0.0,265.0,212.3
+Castro/Upper Market,Private room,1.0,69.0,120.1
+Chinatown,Entire home/apt,1.0,116.0,166.9
+Chinatown,Entire home/apt,1.0,126.0,90.6
+Downtown/Civic Center,Private room,0.0,180.0,152.1
+Downtown/Civic Center,Private room,0.0,180.0,96.3
+Downtown/Civic Center,Private room,0.0,179.0,160.2
+Downtown/Civic Center,Private room,0.0,180.0,177.8
+Downtown/Civic Center,Private room,0.0,180.0,175.5
+Downtown/Civic Center,Private room,0.0,180.0,180.9
+Downtown/Civic Center,Private room,0.0,140.0,127.4
+Downtown/Civic Center,Private room,0.0,140.0,115.5
+Downtown/Civic Center,Entire home/apt,0.0,140.0,203.8
+Downtown/Civic Center,Private room,0.0,140.0,118.7
+Downtown/Civic Center,Private room,0.0,235.0,163.8
+Downtown/Civic Center,Private room,0.0,235.0,178.7
+Downtown/Civic Center,Entire home/apt,1.0,229.0,306.7
+Bayview,Entire home/apt,2.0,210.0,213.5
+Castro/Upper Market,Entire home/apt,0.0,250.0,156.1
+Downtown/Civic Center,Entire home/apt,2.0,130.0,241.7
+Haight Ashbury,Entire home/apt,1.0,150.0,169.0
+Haight Ashbury,Entire home/apt,3.0,370.0,467.4
+Inner Sunset,Entire home/apt,1.0,200.0,182.1
+Marina,Entire home/apt,4.0,1285.0,772.0
+Mission,Private room,1.0,88.0,163.0
+Mission,Entire home/apt,2.0,185.0,332.3
+Mission,Entire home/apt,2.0,350.0,331.5
+Mission,Entire home/apt,2.0,900.0,313.4
+Noe Valley,Entire home/apt,3.0,295.0,394.0
+Noe Valley,Entire home/apt,1.0,250.0,139.0
+Ocean View,Entire home/apt,2.0,158.0,247.5
+Outer Mission,Private room,1.0,119.0,120.7
+Pacific Heights,Entire home/apt,1.0,150.0,292.1
+Pacific Heights,Entire home/apt,3.0,595.0,536.4
+Pacific Heights,Private room,1.0,145.0,266.2
+Potrero Hill,Entire home/apt,1.0,181.0,147.2
+South of Market,Entire home/apt,0.0,149.0,168.1
+West of Twin Peaks,Entire home/apt,3.0,360.0,388.3
+Western Addition,Entire home/apt,1.0,119.0,168.1
+Downtown/Civic Center,Private room,1.0,199.0,161.3
+Marina,Entire home/apt,1.0,329.0,228.7
+Mission,Entire home/apt,1.0,200.0,271.8
+Noe Valley,Entire home/apt,1.0,99.0,66.2
+Noe Valley,Entire home/apt,3.0,250.0,387.1
+North Beach,Entire home/apt,2.0,625.0,361.3
+Pacific Heights,Entire home/apt,1.0,149.0,273.3
+Potrero Hill,Private room,1.0,119.0,113.1
+Twin Peaks,Entire home/apt,2.0,235.0,358.8
+West of Twin Peaks,Entire home/apt,2.0,225.0,241.1
+West of Twin Peaks,Entire home/apt,0.0,100.0,100.8
+Bernal Heights,Private room,1.0,72.0,68.0
+Castro/Upper Market,Entire home/apt,0.0,250.0,130.9
+Inner Richmond,Entire home/apt,0.0,55.0,14.2
+Inner Richmond,Entire home/apt,2.0,125.0,247.7
+Outer Sunset,Shared room,1.0,50.0,15.6
+Outer Sunset,Shared room,1.0,32.0,-23.9
+Outer Sunset,Shared room,1.0,50.0,-2.7
+Outer Sunset,Entire home/apt,2.0,243.0,279.9
+Pacific Heights,Entire home/apt,2.0,495.0,448.1
+South of Market,Entire home/apt,2.0,1499.0,520.7
+Western Addition,Private room,1.0,79.0,177.2
+Western Addition,Entire home/apt,4.0,650.0,608.5
+Castro/Upper Market,Private room,1.0,150.0,121.3
+Marina,Entire home/apt,3.0,505.0,514.2
+Nob Hill,Entire home/apt,3.0,449.0,508.5
+Noe Valley,Private room,1.0,129.0,121.5
+Outer Sunset,Private room,1.0,70.0,96.2
+South of Market,Private room,1.0,100.0,171.4
+Bayview,Private room,1.0,70.0,68.1
+Pacific Heights,Private room,1.0,199.0,285.0
+Pacific Heights,Entire home/apt,1.0,262.0,334.7
+Pacific Heights,Private room,1.0,125.0,302.8
+Bayview,Private room,1.0,75.0,44.6
+Bayview,Shared room,1.0,42.0,-38.4
+North Beach,Private room,1.0,149.0,133.4
+Russian Hill,Entire home/apt,4.0,595.0,635.4
+Mission,Shared room,1.0,55.0,-11.2
+Western Addition,Private room,1.0,87.0,175.9
+Western Addition,Private room,1.0,122.0,183.8
+Western Addition,Entire home/apt,7.0,1500.0,962.1
+Downtown/Civic Center,Entire home/apt,1.0,1200.0,286.3
+Russian Hill,Entire home/apt,1.0,277.0,343.1
+Russian Hill,Entire home/apt,3.0,695.0,631.8
+Downtown/Civic Center,Entire home/apt,0.0,249.0,213.0
+Downtown/Civic Center,Entire home/apt,0.0,265.0,376.7
+Downtown/Civic Center,Entire home/apt,0.0,249.0,187.9
+Downtown/Civic Center,Entire home/apt,0.0,179.0,208.6
+Downtown/Civic Center,Entire home/apt,0.0,249.0,165.5
+Downtown/Civic Center,Entire home/apt,0.0,269.0,164.2

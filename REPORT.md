@@ -8,27 +8,40 @@
 
 ## Seed and commands
 
-Seed used (your student ID):
+Seed used (your student ID):801337361
 
 The commands you ran, in order. If you deviated from the steps in the README, say where and
 why.
-
+1. Start the cluster
 ```bash
 docker compose up -d
+```
+2. Run Task 1 in original state, the run same command after task 1 is implemented.
+```bash
 docker cp main.py spark-master:/opt/spark/work-dir/
+
 docker exec -it spark-master /opt/spark/bin/spark-submit \
   --master spark://spark-master:7077 \
-  /opt/spark/work-dir/main.py task1 /opt/spark/work-dir/shared <SEED>
+  /opt/spark/work-dir/main.py task1 /opt/spark/work-dir/shared 801337361
+```
+3. Run Task 2
+```bash
+docker cp main.py spark-master:/opt/spark/work-dir/
+
 docker exec -it spark-master /opt/spark/bin/spark-submit \
   --master spark://spark-master:7077 \
-  /opt/spark/work-dir/main.py task2 /opt/spark/work-dir/shared <SEED>
+  /opt/spark/work-dir/main.py task2 /opt/spark/work-dir/shared 801337361
+```
+4. See the outputs
+```bash
 cat shared-folder/output/task1/metrics/*.csv
 head -5 shared-folder/output/task2/predictions/*.csv
-find shared-folder/models/full -maxdepth 2
+find shared-folder/models/full -maxdepth 2        # what a saved PipelineModel looks like
+```
+5. Stop the cluster
+```bash
 docker compose down
 ```
-
-No deviations from the README steps.
 
 ---
 
@@ -40,26 +53,45 @@ Paste the two lines printed by `evaluate()` (also in `shared-folder/output/task1
 the five predictions shown and the "saved to" line.
 
 ```
-<PASTE task1 OUTPUT: seed line, baseline/full evaluate() lines, 5 predictions, saved-to line>
+baseline                         RMSE   442.8   R2  0.071
+full                             RMSE   437.4   R2  0.094
++----------------------+---------------+--------+-----+----------+
+|neighbourhood_cleansed|room_type      |bedrooms|price|prediction|
++----------------------+---------------+--------+-----+----------+
+|Bayview               |Entire home/apt|1.0     |250.0|-23.9     |
+|Bernal Heights        |Private room   |1.0     |250.0|107.4     |
+|Bernal Heights        |Entire home/apt|3.0     |350.0|294.2     |
+|Bernal Heights        |Private room   |1.0     |159.0|76.1      |
+|Castro/Upper Market   |Private room   |1.0     |115.0|131.8     |
++----------------------+---------------+--------+-----+----------+
+
 ```
 
 How many training and test rows did your seed give? The slides show 5,780 and 1,366 with
 seed 42; why is yours different?
 
-My seed gave `<TRAIN>` training rows and `<TEST>` test rows. `randomSplit` draws a
-pseudo-random number per row from the seed, so a different seed puts different rows (and a
-slightly different count) in each set; the 80/20 ratio is only approximate.
+My seed gave `5709` training rows and `1437` test rows. `randomSplit` draws a
+pseudo-random number per row from the seed. Changing the random seed alters the 
+split of the dataset, resulting in a diferent count for the training and test partitions.
 
 ### Task 2: scoring with the saved model
 
 Paste the stage list, the RMSE of the loaded model and the five predictions.
 
 ```
-<PASTE task2 OUTPUT: stages: ['StringIndexerModel', 'OneHotEncoderModel', 'VectorAssembler', 'LinearRegressionModel'], RMSE line, row counts, 5 predictions>
-```
+['StringIndexerModel', 'OneHotEncoderModel', 'VectorAssembler', 'LinearRegressionModel']
+437.4 (with an R² of 0.094)
++----------------------+---------------+--------+-----+----------+
+|neighbourhood_cleansed|room_type      |bedrooms|price|prediction|
++----------------------+---------------+--------+-----+----------+
+|Bayview               |Entire home/apt|1.0     |250.0|-23.9     |
+|Bernal Heights        |Private room   |1.0     |250.0|107.4     |
+|Bernal Heights        |Entire home/apt|3.0     |350.0|294.2     |
+|Bernal Heights        |Private room   |1.0     |159.0|76.1      |
+|Castro/Upper Market   |Private room   |1.0     |115.0|131.8     |
++----------------------+---------------+--------+-----+----------+
 
-The RMSE of the loaded model is identical to the "full" RMSE of task 1, since it is the same
-fitted PipelineModel applied to the same test rows.
+```
 
 ---
 
@@ -72,15 +104,12 @@ lecture): how does that affect an RMSE measured in dollars, and why do the numbe
 from seed to seed? Name one change to the pipeline you would try first (slides "Running
 Example" with the model table, and "Tuning").
 
-I got baseline `<RMSE_B>` / `<R2_B>` and full `<RMSE_F>` / `<R2_F>`. The ~97 extra
-features (one-hot categories plus numeric columns) buy only a small improvement, a few
-dollars of RMSE and a few points of R2. RMSE squares the errors, so the few listings priced
-in the thousands dominate it: a single 10,000-dollar listing mispredicted by several
-thousand dollars weighs more than hundreds of ordinary listings. Which of those outliers
-fall in the test set depends on the split, which is why the numbers move from seed to seed.
-The first change I would try is predicting `log(price)` and exponentiating the prediction
-(the model table in "Running Example"), which tames the outliers; next, a tree-based model
-(RandomForestRegressor) tuned with CrossValidator and a ParamGrid ("Tuning").
+With seed 801337361, baseline RMSE was 442.8 and the full model was 437.4, showing that adding 
+97 extra features barely improved performance. Because Airbnb prices stretch wildly from $10 to $10,000, 
+extreme outliers heavily inflate the RMSE by penalizing big misses on expensive homes. 
+These numbers change between seeds because each random split uses a different mix of data rows, and the
+best first change to try is log-transforming the price to smooth out those extreme outliers or adding 
+regularization.
 
 
 **2. What is in `shared-folder/models/full`?** List its folders (`find shared-folder/models/full
@@ -88,36 +117,21 @@ The first change I would try is predicting `log(price)` and exponentiating the p
 LinearRegressionModel alone? Which stages of the saved model are fitted models and which
 are plain transformers?
 
-`find shared-folder/models/full -maxdepth 2` shows:
-
-- **`metadata/`**: JSON describing the PipelineModel (class, Spark version, uid, ordered
-  list of stage uids).
-- **`stages/`**: one sub-folder per stage, prefixed by its index:
-  `0_StringIndexer_...` (labels learned for each string column), `1_OneHotEncoder_...`
-  (category sizes), `2_VectorAssembler_...` (input/output column params only),
-  `3_LinearRegression_...` (coefficients and intercept in `data/`, params in `metadata/`).
-
-We save the PipelineModel because the LinearRegressionModel alone expects a ready-made
-`features` vector; the scoring job would have to rebuild the indexing, encoding and
-assembly with exactly the same labels and column order, which is error-prone. The
-PipelineModel carries the whole preprocessing with it. Fitted models: `StringIndexerModel`,
-`OneHotEncoderModel`, `LinearRegressionModel`. Plain transformer: `VectorAssembler`.
-
+shared-folder/models/full contains a metadata/ folder for global pipeline info and a 
+stages/ folder holding the individual steps. The entire PipelineModel is saved instead of just the 
+regression model because it bundles the preprocessing steps, ensuring new data is transformed the exact same way during predictions. Among its stages, 
+the string indexer, one-hot encoder, and linear regression are fitted models that learned from the data, 
+while the vector assembler is a plain transformer.
 
 **3. Only transformers at scoring time.** Task 2 ran no `fit()`. Compare the number of
 predictions written with the number of test rows: if they differ, where did the rows go,
 and which parameter of which stage decides it? What would you have to change in task 2 to
 score a stream of listings instead of a Parquet file (slide "Scoring a Stream")?
 
-Task 2 wrote `<N_PRED>` predictions for `<TEST>` test rows. Any missing rows are test
-listings whose value in a string column (e.g. a rare `property_type` or
-`neighbourhood_cleansed`) never appeared in the training set: the `StringIndexer` stage was
-fitted with `handleInvalid="skip"`, so it drops those rows instead of failing
-(`"keep"` would put them in an extra bucket, `"error"` would abort). To score a stream I
-would only change the input and output: read with `spark.readStream.schema(schema).parquet(...)`
-(or Kafka) instead of `spark.read`, keep `model.transform(...)` unchanged, and write with
-`writeStream` (format, checkpoint location, `start()`/`awaitTermination()`) instead of
-`write`. The RMSE cannot be computed on an unbounded stream with the batch evaluator.
+Task 2 produced 1,436 predictions from 1,437 test rows because the missing row was dropped by 
+the StringIndexer using the handleInvalid = "skip" parameter when it encountered an unknown category. 
+To score a live stream instead of a Parquet file, we need to switch from batch reading (spark.read) 
+to streaming (spark.readStream) and use .writeStream for continuous processing.
 
 
 ---
@@ -127,4 +141,10 @@ would only change the input and output: read with `spark.readStream.schema(schem
 Anything that went wrong and what resolved it. Paste the actual error message. If nothing
 went wrong, say so.
 
-<FILL IN after running; e.g. "Nothing went wrong.">
+When running the tasks for the first time, I got error `ModuleNotFoundError: No module named 'numpy'`. 
+The problem with NumPy was that it wasn't installed inside the spark-master container, causing PySpark's 
+ML library to throw a ModuleNotFoundError. When trying to install it, pip failed with a permission 
+denied error because it tried to use a non-existent user home directory `(/nonexistent)`.
+It was fixed by telling pip to bypass the user cache directory and install it cleanly using:
+`docker exec -it spark-master pip install --no-cache-dir numpy
+`

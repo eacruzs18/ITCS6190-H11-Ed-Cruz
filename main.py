@@ -111,6 +111,7 @@ def task1_pipelines():
     return results
 
 
+
 # ---------------------------------------------------------------- Task 2: score with the saved model
 def task2_score():
     """A scoring job: no training data, no fit(). Load the PipelineModel from model_dir,
